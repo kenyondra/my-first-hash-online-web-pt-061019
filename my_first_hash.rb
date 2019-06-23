@@ -17,8 +17,6 @@ def shipping_manifest
     "oil painting" => 3
   }
   
-  shipping_manifest[]
-  }
 
 end
 
