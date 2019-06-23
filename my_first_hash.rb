@@ -46,5 +46,6 @@ def adding
 
 
   # return the shipping_manifest hash below
-shipping_manifest["pearl necklace"]
+shipping_manifest["pearl necklace"] = 1 
+
 end
